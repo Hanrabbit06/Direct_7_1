@@ -7,16 +7,16 @@
         android:checkableBehavior="single">
         <item
             android:id="@+id/item1"
-            android:title="햄스터"
+            android:title="굿즈 라인업 1"
             android:checked="true">
         </item>
         <item
             android:id="@+id/item2"
-            android:title="토끼">
+            android:title="굿즈 라인업 2">
         </item>
         <item
             android:id="@+id/item3"
-            android:title="기니피그">
+            android:title="굿즈 라인업 3">
         </item>
     </group>
 
